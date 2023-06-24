@@ -99,7 +99,7 @@ Organic First is a project developed as part of the Future Ready Talent Internsh
 
 
 
-I would like to thank the Future Ready Talent, GitHub and Azzure for providing the opportunity to work on this project and contribute to the promotion of organic farming.
+I would like to thank the Future Ready Talent, GitHub and Microsoft Azure for providing the opportunity to work on this project and contribute to the promotion of organic farming.
 
 ---
 
