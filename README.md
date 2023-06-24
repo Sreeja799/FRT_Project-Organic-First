@@ -50,39 +50,46 @@ Organic First is a project developed as part of the Future Ready Talent Internsh
 ![2](https://github.com/Sreeja799/FRT_Project-Organic-First/assets/73770166/2859be42-3194-4dc2-8992-23f89ac3f8b0)
 
 
+
 **About Page**
 
 ![3](https://github.com/Sreeja799/FRT_Project-Organic-First/assets/73770166/827f2ca1-1311-4943-9a4f-7607cabe8866)
 
 
-Workshops Page
+
+**Workshops Page**
 
 ![4](https://github.com/Sreeja799/FRT_Project-Organic-First/assets/73770166/01e0f0ca-fcd9-48fa-836a-af0e05865b02)
 
 ![5](https://github.com/Sreeja799/FRT_Project-Organic-First/assets/73770166/99a84bf7-8f6a-4bba-9fe0-de9a8bded756)
 
 
-Stats Page
+
+**Stats Page**
 
 ![6](https://github.com/Sreeja799/FRT_Project-Organic-First/assets/73770166/a10a8bce-6dff-432d-998e-623d7cee39bb)
 
 
-Gallery Page
+
+**Gallery Page**
 
 ![7](https://github.com/Sreeja799/FRT_Project-Organic-First/assets/73770166/5122171a-b3ca-4e3d-a8c0-321185259fca)
 
 
-Feedback Page
+
+**Feedback Page**
 
 ![8](https://github.com/Sreeja799/FRT_Project-Organic-First/assets/73770166/b92f0bda-a0ee-4e18-927a-8102ff4c23d5)
 
 
-Contact Page
+
+**Contact Page**
 
 ![9](https://github.com/Sreeja799/FRT_Project-Organic-First/assets/73770166/1e1c0b39-09c4-4449-82f4-ab9e3f3d66a3)
 
 
-Awareness Bot Page
+
+**Awareness Bot Page**
 
 ![10](https://github.com/Sreeja799/FRT_Project-Organic-First/assets/73770166/18086ee8-61f3-4814-9410-d012496db17c)
 
