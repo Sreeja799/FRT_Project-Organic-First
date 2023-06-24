@@ -4,7 +4,7 @@ Organic First is a project developed as part of the Future Ready Talent Internsh
 
 **Project Link:** https://red-grass-04b8b7900.3.azurestaticapps.net/
 
-**Project Demo Link: **
+**Project Demo Link:**
 
 ## Features
 
@@ -41,15 +41,19 @@ Organic First is a project developed as part of the Future Ready Talent Internsh
 
 ## Example Screenshots
 
-Home Page
+**Home Page**
 
-![Uploading 1.png…]()
+
+![1](https://github.com/Sreeja799/FRT_Project-Organic-First/assets/73770166/775d93a9-7dbc-4c05-a144-f7e10d13b757)
+
 
 ![2](https://github.com/Sreeja799/FRT_Project-Organic-First/assets/73770166/2859be42-3194-4dc2-8992-23f89ac3f8b0)
 
-About Page
+
+**About Page**
 
 ![3](https://github.com/Sreeja799/FRT_Project-Organic-First/assets/73770166/827f2ca1-1311-4943-9a4f-7607cabe8866)
+
 
 Workshops Page
 
@@ -59,7 +63,9 @@ Workshops Page
 
 
 Stats Page
+
 ![6](https://github.com/Sreeja799/FRT_Project-Organic-First/assets/73770166/a10a8bce-6dff-432d-998e-623d7cee39bb)
+
 
 Gallery Page
 
@@ -72,10 +78,12 @@ Feedback Page
 
 
 Contact Page
+
 ![9](https://github.com/Sreeja799/FRT_Project-Organic-First/assets/73770166/1e1c0b39-09c4-4449-82f4-ab9e3f3d66a3)
 
 
 Awareness Bot Page
+
 ![10](https://github.com/Sreeja799/FRT_Project-Organic-First/assets/73770166/18086ee8-61f3-4814-9410-d012496db17c)
 
 
