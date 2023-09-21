@@ -25,7 +25,6 @@ Organic First is a project developed as part of the Future Ready Talent Internsh
 - HTML
 - CSS
 - JavaScript
-- Bootstrap
 
 ## Azure Technologies Used
 
