@@ -1,6 +1,6 @@
 # Organic First
 
-Organic First is a project developed as part of the Future Ready Talent Internship. This website serves as a valuable resource to learn more about organic farming and aims to raise awareness about its importance in sustainable agriculture. It also provides a platform for institutions to connect with us for conducting workshops and educational programs on Organic Farming.
+Organic First is a website serves as a valuable resource to learn more about organic farming and aims to raise awareness about its importance in sustainable agriculture. It also provides a platform for institutions to connect with us for conducting workshops and educational programs on Organic Farming.
 
 **Project Link:** https://red-grass-04b8b7900.3.azurestaticapps.net/
 
